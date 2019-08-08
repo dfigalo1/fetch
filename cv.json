@@ -1,24 +1,24 @@
 {
-    "name":"",
-    "cvTitle":"",
-    "cvDescription":"",
+    "name":"Hi!, i'm Daiana Figalo!",
+    "cvTitle":"Design graphic & web",
+    "cvDescription":"Diseñador de paginas web, diseño de piezas en diseño grafico y desarrollo front-End",
     "social":[
-        {"name":"", "link":""}
+        {"name":"Facebook", "link":"https://www.facebook.com"}
     ],
     "education":[
-        {"title":"", "institution":"", "endYear":"", "description":""},
-        {"title":"", "institution":"", "endYear":"", "description":""}
+        {"title":"Licenciatura en diseño  y comunicación", "institution":"Universidad de palermo", "endYear":"2018", "description":"hasjdhsdjlshdjshadjashdla"},
+        {"title":"Tecnicatura diseño grafico", "institution":"EMBA Carlos Morel", "endYear":"2016", "description":"hdfkjdhfjdsfhdjlhfdslf"}
     ],
     "skills":[
-        {"title":"", "level":""},
-        {"title":"", "level":""}
+        {"title":"Desarrollo de redes", "level":"10"},
+        {"title":"Creación de contenido web", "level":"8"}
     ],
     "blog":[
-        {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""},
+        {"title":"My life", "sutitle":"My life", "excerpt":"My life", "text":"My life", "images":"My life"},
         {"title":"", "sutitle":"", "excerpt":"", "text":"", "images":""}
     ],
     "contact":{
-        "phone":"",
-        "email":""
+        "phone":"1560523181",
+        "email":"daianafigalo@gmail.com"
     }
 }
